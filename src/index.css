@@ -1,0 +1,26 @@
+/* src/index.css */
+:root {
+  --primary: #232A60;
+  --primary-dark: #171C42;
+  --action: #A6CE39;
+  --bg-page: #F4F5FA;
+  --surface: #FFFFFF;
+  --border: #E3E6EF;
+  --text: #2E2E2E;
+  --text-secondary: #6B7280;
+  --alert: #C2410C;
+  --success: #15803D;
+  --rating: #F59E0B;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--bg-page);
+  color: var(--text);
+  font-family: system-ui, -apple-system, sans-serif;
+}
