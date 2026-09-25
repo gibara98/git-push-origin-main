@@ -1,6 +1,5 @@
 # Vitrine Alegre 🛒✨
 
-Repositório GitHub: https://github.com/gibara98/VitrineAlegre
 Site publicado (Vercel): https://vitrine-alegre-cqxs.vercel.app/
 Front-end de e-commerce desenvolvido em **React** com o auxílio de IA, consumindo a API pública **DummyJSON** e construído fielmente a partir dos mockups da especificação técnica.
 
